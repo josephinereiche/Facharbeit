@@ -9,4 +9,29 @@
   * Analysis
   * Vektor/ Matrizen
   * Stochastik
+## Datenaufbreitung
+* Beschaffung und Erhebung geeigneter Daten
+  * Internet Kaggle.com
+  * Eigene Daten erkennen und sammeln
+* Datenqualität
+  * lineare Abhängigkeiten
+* Aufbereitung
+  * One-Hot Encoding
+  * Labelgenerierung
+* Trainingsdaten vs. Testdaten
+* Beispiel für Fehler bzw. bessere Ergebnisse
+## ML/ DL Strategien
+* Klassifizierung
+* Supervised-/ Unsupervised Learning
+* Bewertungen (Qualität, Performance)
+* Overfitting, Loss-/ Error-Functions
+## ML/ DL Algorithmen
+* Lineare Regression
+* Logistische Regression
+* ...
 
+## Beispielprojekt
+* Facharbeit -> LK Mathe -> Block Einführung für Interessierte
+* Facharbeit -> Kaggle Projekt mit Herleitung Daten - versch. Modelle - Erklärung/ Visualisierung der Ergebnisse
+
+* BeLL -> größeres interessantes Projekt -> mgl. mit ext. Partner (Institut oder Firma)

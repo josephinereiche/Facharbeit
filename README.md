@@ -2,13 +2,13 @@
 ## Einführung
 * Motivation praktische Anwendung
   * Hilfswissenschaft für natwissenschaftliche Fächer -> Entwicklung Mathe -> Computerprogramme -> BigData (ML/DL)
-  * unendliche ANwendungsmgl. schon heute -> Business
+  * unendliche Anwendungsmgl. schon heute -> Business -> Werbung, Spotify, Gesichtserkennung
   * Beschäftigung mit Zukunftsthemen z.B. Ethik und Robotik -> dürfen Drohnen Menschen autom. töten?
 * Motivation Mathematik Schulstoff Sek. II
-  * Lineare Algebra
-  * Analysis
-  * Vektor/ Matrizen
-  * Stochastik
+  * Lineare Algebra (Abhängigkeiten, Regression) 
+  * Analysis (Gradientenverfahren, Fehlerfunktionen) 
+  * Vektor/ Matrizen (Daten)
+  * Stochastik (Varianz, Median, Bestimmtheitsmaß R²)
 ## Datenaufbreitung
 * Beschaffung und Erhebung geeigneter Daten
   * Internet Kaggle.com

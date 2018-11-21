@@ -1,0 +1,5 @@
+# Template der einzelnen Verfahren
+. Einordnung im System (Un-, Supervised, Reinforcement)
+. Vorstellung als Text
+. Mathematischer Hintergrund
+. kleines Bsp.

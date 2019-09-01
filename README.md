@@ -11,7 +11,7 @@
   * Stochastik (Varianz, Median, Bestimmtheitsmaß R²)
 ## Datenaufbreitung
 * Beschaffung und Erhebung geeigneter Daten
-  * Internet Kaggle.com
+  * Internet 
   * Eigene Daten erkennen und sammeln
 * Datenqualität
   * lineare Abhängigkeiten
@@ -28,10 +28,11 @@
 ## ML/ DL Algorithmen
 * Lineare Regression
 * Logistische Regression
-* ...
+* Neuronale Netze
 
 ## Beispielprojekt
-* Facharbeit -> LK Mathe -> Block Einführung für Interessierte
-* Facharbeit -> Kaggle Projekt mit Herleitung Daten - versch. Modelle - Erklärung/ Visualisierung der Ergebnisse
-
-* BeLL -> größeres interessantes Projekt -> mgl. mit ext. Partner (Institut oder Firma)
+* Facharbeit -> LK Mathe -> Block Einführung für Interessierte bzw. Präsentation
+* Facharbeit -> Projekte mit Herleitung Daten - versch. Modelle - Erklärung/ Visualisierung der Ergebnisse
+  * Vorhersage Wohnungspreise
+  * Klassifikation nach Volljährigkeit
+  * Klassifikation von Bildern in einer Webseite

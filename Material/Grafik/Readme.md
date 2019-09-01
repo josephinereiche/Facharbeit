@@ -1,1 +1,1 @@
-Hier sind alle Grafiken drin.
+Hier sind gefundene Grafiken drin.
